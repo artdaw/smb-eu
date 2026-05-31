@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "small-business-eu",
+      "name": "Small-Business-EU",
       "source": "./",
       "description": "EU-native small business workflows — accounting, VAT, GDPR, SEPA payments, e-invoicing, and growth."
     }

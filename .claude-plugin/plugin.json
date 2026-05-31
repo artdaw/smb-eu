@@ -1,7 +1,7 @@
 {
-  "name": "small-business-eu",
-  "version": "0.3.0",
-  "description": "EU-native small business workflows — accounting, VAT, GDPR, SEPA payments, e-invoicing, and growth — using Exact Online, Mollie, PayPal, HubSpot, Brevo, Pipedrive, Calendly, DocuSign, and more. Every step that touches money or customers requires your approval.",
+  "name": "Small-Business-EU",
+  "version": "0.4.0",
+  "description": "EU-native small business workflows — accounting, VAT, GDPR, SEPA payments, e-invoicing, and growth — using Exact Online, Mollie, PayPal, Notion, Brevo, Pipedrive, Calendly, DocuSign, and more. Every step that touches money or customers requires your approval.",
   "author": {
     "name": "Gleb Galkin",
     "email": "me@artdaw.com",
