@@ -5,12 +5,16 @@
       "url": "https://mcp.mollie.com/mcp"
     },
     "paypal": {
-      "type": "http",
-      "url": "https://mcp.paypal.com/mcp"
+      "type": "sse",
+      "url": "https://mcp.paypal.com/sse"
     },
     "sumup": {
       "type": "http",
       "url": "https://mcp.sumup.com/mcp"
+    },
+    "stripe": {
+      "type": "http",
+      "url": "https://mcp.stripe.com"
     },
     "hubspot": {
       "type": "http",
@@ -50,17 +54,17 @@
     },
     "gmail": {
       "type": "http",
-      "url": "https://gmail.mcp.claude.com/mcp"
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
     },
-    "google-calendar": {
+    "google calendar": {
       "type": "http",
-      "url": "https://gcal.mcp.claude.com/mcp"
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
     },
-    "google-drive": {
+    "google drive": {
       "type": "http",
-      "url": "https://gdrive.mcp.claude.com/mcp"
+      "url": "https://drivemcp.googleapis.com/mcp/v1"
     },
-    "calcom": {
+    "cal.com": {
       "type": "http",
       "url": "https://mcp.cal.com/mcp"
     }
